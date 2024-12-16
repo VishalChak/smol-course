@@ -28,6 +28,11 @@ MANIFEST
 output/
 SmolLM2-FT-MyDataset/
 sft_output/
+SmolLM2-FT-DPO/
+smol_dpo_output
+*.json
+*.bin
+*.txt
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
